@@ -1,4 +1,4 @@
-# Hey, I'm Michael 👋                                                                                                   
+# Hey, I'm Landon 👋                                                                                                   
    
   I build home automation and energy systems — mostly backend-heavy Python with a Next.js frontend bolted on.             
                                                                                                                                                                              
